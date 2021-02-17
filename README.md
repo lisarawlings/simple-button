@@ -1,1 +1,1 @@
-#Create 2 buttonS which increase and decrease number when clicked
+#Create 2 buttons which increase and decrease number when clicked
