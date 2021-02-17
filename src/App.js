@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Create a simple button which increments when clicked:</h1>
+        <h1>Create buttons which increase and decrease number when clicked:</h1>
         <h2>{this.state.show}{this.state.clicks}</h2>
         <button class="increase" onClick={this.IncrementItem}>Increase</button>
         <button onClick={this.DecreaseItem}>Decrease</button>
